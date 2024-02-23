@@ -6,7 +6,7 @@ new Vue({
                 name: 'NBA Stats of League Leaders',
                 nameCh: 'NBA 各項數據排名',
                 detail: ['在網頁上顯示 NBA 球員各項數據排名。', '使用 Axios 套件運行 AJAX，向 NBA 官網的 API 拿取 JSON 數據。',
-                        '透過 Vue.js 的數據綁定功能，將後端API返回的數據動態渲染到網頁上。'],
+                        '透過 Vue.js 的數據綁定功能，將後端 API 返回的數據動態渲染到網頁上。'],
                 image: 'photo-nba-player-stats.png',
                 link: 'https://revolmusic23.github.io/NBA-Stats-of-League-Leaders/'
             },
