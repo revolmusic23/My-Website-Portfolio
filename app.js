@@ -22,7 +22,7 @@ new Vue({
                 name: 'Multifunctional Music Player',
                 nameCh: '多功能音樂播放器',
                 detail: ['使用 Vue.js 動態顯示和管理播放列表，以及更新播放器的狀態。',
-                            '使用 HTML5 的拖放 API 來實現音樂檔案的拖放功能。',
+                            '使用 HTML5 的 Web API 來實現音樂檔案的拖放功能。',
                             '具有循環播放片段、調整速度等功能，適合當作練習樂器的輔助工具。'],
                 image: 'photo-music_player.png',
                 link: 'https://revolmusic23.github.io/Vue.js-Music-Player/'
