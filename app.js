@@ -26,7 +26,8 @@ new Vue({
                             '使用 HTML5 的 Web API 來實現音樂檔案的拖放功能。',
                             '具有循環播放片段、調整速度等功能，適合當作練習樂器的輔助工具。'],
                 image: 'photo-music_player.png',
-                link: 'https://revolmusic23.github.io/Vue.js-Music-Player/'
+                // link: 'https://revolmusic23.github.io/Vue.js-Music-Player/'
+                link: '/Multifunctional-Music-Player'
             },
             {
                 name: 'College Project',
